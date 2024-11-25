@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3524104255</fileChecksum>
+  <configuration>
+    <name>Output</name>
+    <outputs>
+      <file>$PROJ_DIR$\cmsis_boot\system_LPC17xx.c</file>
+      <file>$PROJ_DIR$\Output\Obj\AsciiLib.pbi</file>
+      <file>$PROJ_DIR$\Drivers\GLCD\GLCD.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Drivers\USB\usb.h</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\libcfg.h</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbuser.h</file>
+      <file>$PROJ_DIR$\Output\Obj\main.pbd</file>
+      <file>$PROJ_DIR$\Output\Exe\main.hex</file>
+      <file>$PROJ_DIR$\Output\Obj\TouchPanel.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\usbdesc.o</file>
+      <file>$PROJ_DIR$\Output\Obj\AsciiLib.o</file>
+      <file>$PROJ_DIR$\Output\Obj\pinsel.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\usbhw.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\usbuser.o</file>
+      <file>$PROJ_DIR$\Output\Obj\usbhw.o</file>
+      <file>$PROJ_DIR$\Drivers\TouchPanel\TouchPanel.h</file>
+      <file>$PROJ_DIR$\Output\Obj\adc.o</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\clkpwr.h</file>
+      <file>$PROJ_DIR$\Output\Obj\core_cm3.pbi</file>
+      <file>$PROJ_DIR$\Output\Exe\main.out</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbreg.h</file>
+      <file>$PROJ_DIR$\Output\Obj\uart.o</file>
+      <file>$PROJ_DIR$\cmsis\core_cm3.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Output\Obj\usbcore.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\dac.pbi</file>
+      <file>$PROJ_DIR$\Drivers\USB\audio.h</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\pinsel.h</file>
+      <file>$PROJ_DIR$\Output\Obj\pinsel.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\Output\Obj\uart.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Output\Obj\startup_LPC17xx.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Output\Obj\GLCD.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Output\Obj\clkpwr.o</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbcfg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Output\Obj\GLCD.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\timer.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\usbcore.o</file>
+      <file>$PROJ_DIR$\Output\Obj\dac.o</file>
+      <file>$PROJ_DIR$\Output\Obj\Process.o</file>
+      <file>$PROJ_DIR$\Drivers\GLCD\HzLib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Output\Obj\timer.o</file>
+      <file>$PROJ_DIR$\Output\Obj\libcfg.o</file>
+      <file>$PROJ_DIR$\Output\Obj\usbdesc.pbi</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\uart.h</file>
+      <file>$PROJ_DIR$\Output\Obj\libcfg.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\cmsis_boot\LPC17xx.h</file>
+      <file>$PROJ_DIR$\Output\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\cmsis\core_cm3.h</file>
+      <file>$PROJ_DIR$\Drivers\GLCD\AsciiLib.h</file>
+      <file>$PROJ_DIR$\Output\Obj\clkpwr.pbi</file>
+      <file>$PROJ_DIR$\Output\Obj\adc.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Output\Obj\main.o</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbcore.h</file>
+      <file>$PROJ_DIR$\main.icf</file>
+      <file>$PROJ_DIR$\Output\Obj\system_LPC17xx.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Drivers\Configuration.h</file>
+      <file>$PROJ_DIR$\Core\Process.h</file>
+      <file>$PROJ_DIR$\Output\Obj\adcuser.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Output\Obj\Process.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Output\Obj\system_LPC17xx.pbi</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\types.h</file>
+      <file>$PROJ_DIR$\Output\Obj\usbuser.pbi</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbdesc.h</file>
+      <file>$PROJ_DIR$\Drivers\USB\adcuser.h</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\dac.h</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbhw.h</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\adc.h</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\include\timer.h</file>
+      <file>$PROJ_DIR$\Output\Obj\core_cm3.o</file>
+      <file>$PROJ_DIR$\cmsis_boot\system_LPC17xx.h</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbaudio.h</file>
+      <file>$PROJ_DIR$\Output\Obj\TouchPanel.o</file>
+      <file>$PROJ_DIR$\Drivers\GLCD\GLCD.c</file>
+      <file>$PROJ_DIR$\Drivers\USB\adcuser.c</file>
+      <file>$PROJ_DIR$\Drivers\TouchPanel\TouchPanel.c</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbcore.c</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbdesc.c</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbhw.c</file>
+      <file>$PROJ_DIR$\Drivers\USB\usbuser.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\adc.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\clkpwr.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\dac.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\libcfg.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\pinsel.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\timer.c</file>
+      <file>$PROJ_DIR$\lpc17xx_lib\source\uart.c</file>
+      <file>$PROJ_DIR$\main.cpp</file>
+      <file>$PROJ_DIR$\Startup\startup_LPC17xx.s</file>
+      <file>$PROJ_DIR$\Output\Obj\adcuser.pbi</file>
+      <file>$PROJ_DIR$\Core\Process.c</file>
+      <file>$PROJ_DIR$\Drivers\GLCD\AsciiLib.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\cmsis_boot\system_LPC17xx.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 54 35 62 32 41 37 48 55 57 3 85</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 57 85</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Output\Obj\main.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 1 42 73 9 60 104 59 19 26 53 56 12 75 43 31 25 51 13 77</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Output\Exe\main.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 65 11 36 46 87 17 70 39 84 45 50 63 29 34 66 49 22 44 10 15 14 33 38 30</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cmsis\core_cm3.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 72 54 35 62 32 41 37 48</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\GLCD\GLCD.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 55 57 72 54 35 62 32 41 37 48 3 85 47 24 71 61 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 55 57 85 47 58</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\USB\adcuser.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 104</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 72 54 35 62 32 41 37 48 4 27 40 64 79 86</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 4 27 40 64 79 86</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\TouchPanel\TouchPanel.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2 55 57 72 54 35 62 32 41 37 48 3 85 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 55 57 85 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\USB\usbcore.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 72 54 35 62 32 41 37 48 4 40 81 64 78 6 27 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 4 40 81 64 78 6 27 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\USB\usbdesc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 72 54 35 62 32 41 37 48 4 27 40 78</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 4 27 40 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\USB\usbhw.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 57 72 54 35 62 32 41 37 48 3 85 76 4 40 21 81 64 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 57 85 76 4 40 21 81 64 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\USB\usbuser.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 72 54 35 62 32 41 37 48 4 40 81 64 6 86</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 4 40 81 64 6 86</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\adc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 55 57 72 54 35 62 32 41 37 48 3 85 76 18 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 55 57 85 76 18 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\clkpwr.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 55 57 72 54 35 62 32 41 37 48 3 85 76</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 55 57 85 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\dac.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80 55 57 72 54 35 62 32 41 37 48 3 85 76 18 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80 55 57 85 76 18 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\libcfg.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5 76 72 54 35 62 32 41 37 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 5 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\pinsel.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28 55 57 72 54 35 62 32 41 37 48 3 85 76</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 55 57 85 76</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\timer.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 57 72 54 35 62 32 41 37 48 3 85 76 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 57 85 76 83</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\lpc17xx_lib\source\uart.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 57 72 54 35 62 32 41 37 48 3 85 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 57 85 52</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 3 54 67 35 62 32 41 37 48 71 74 24 61 55 57 72 85 76 68 52 5 28 4 40 81 64 86 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 55 57 85 76 68 52 5 28 4 40 81 64 86 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Startup\startup_LPC17xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Core\Process.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 3 54 67 35 62 32 41 37 48 71 74 24 61 55 57 72 85 76 68 52 5 28 4 40 81 64 86 6</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 55 57 85 76 68 52 5 28 4 40 81 64 86 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Drivers\GLCD\AsciiLib.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 24 54 35 62 32 41 37 48 71 61</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

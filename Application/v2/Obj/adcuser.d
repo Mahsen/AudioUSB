@@ -1,0 +1,9 @@
+.\Obj\adcuser.o: Drivers\USB\adcuser.c
+.\Obj\adcuser.o: Drivers\USB\../../common/inc/type.h
+.\Obj\adcuser.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\adcuser.o: Drivers\USB\usb.h
+.\Obj\adcuser.o: Drivers\USB\audio.h
+.\Obj\adcuser.o: Drivers\USB\usbcfg.h
+.\Obj\adcuser.o: Drivers\USB\usbcore.h
+.\Obj\adcuser.o: Drivers\USB\adcuser.h
+.\Obj\adcuser.o: Drivers\USB\usbaudio.h

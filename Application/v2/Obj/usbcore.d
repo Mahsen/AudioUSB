@@ -1,0 +1,11 @@
+.\Obj\usbcore.o: Drivers\USB\usbcore.c
+.\Obj\usbcore.o: Drivers\USB\../../common/inc/type.h
+.\Obj\usbcore.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\usbcore.o: Drivers\USB\usb.h
+.\Obj\usbcore.o: Drivers\USB\usbcfg.h
+.\Obj\usbcore.o: Drivers\USB\usbhw.h
+.\Obj\usbcore.o: Drivers\USB\usbcore.h
+.\Obj\usbcore.o: Drivers\USB\usbdesc.h
+.\Obj\usbcore.o: Drivers\USB\usbuser.h
+.\Obj\usbcore.o: Drivers\USB\audio.h
+.\Obj\usbcore.o: Drivers\USB\adcuser.h

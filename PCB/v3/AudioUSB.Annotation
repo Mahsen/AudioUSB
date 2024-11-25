@@ -1,0 +1,25 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=AMP.SchDoc
+UniqueIDPath0=\HWNNJQLL
+SheetNumber0=1
+DocumentName1=JTAG.SchDoc
+UniqueIDPath1=\LBHGWYDT
+SheetNumber1=2
+DocumentName2=MCU.SchDoc
+UniqueIDPath2=\DGYPEEFL
+SheetNumber2=3
+DocumentName3=POWER.SchDoc
+UniqueIDPath3=\HKQEACLM
+SheetNumber3=4
+DocumentName4=TopSheet.SchDoc
+UniqueIDPath4=
+SheetNumber4=5
+DocumentName5=USB.SchDoc
+UniqueIDPath5=\FOPCKNCL
+SheetNumber5=6
+
+

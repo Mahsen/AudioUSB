@@ -1,0 +1,9 @@
+.\Obj\glcd.o: Drivers\GPU\GLCD\GLCD.c
+.\Obj\glcd.o: Drivers\GPU\GLCD\GLCD.h
+.\Obj\glcd.o: Drivers\GPU\GLCD\../../../Common/inc/LPC17xx.h
+.\Obj\glcd.o: C:\Keil\ARM\RV31\INC\core_cm3.h
+.\Obj\glcd.o: C:\Keil\ARM\RV31\INC\stdint.h
+.\Obj\glcd.o: Drivers\GPU\GLCD\../../../Common/inc/system_LPC17xx.h
+.\Obj\glcd.o: Drivers\GPU\GLCD\HzLib.h
+.\Obj\glcd.o: C:\Keil\ARM\RV31\INC\string.h
+.\Obj\glcd.o: Drivers\GPU\GLCD\AsciiLib.h

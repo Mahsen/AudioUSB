@@ -1,0 +1,6 @@
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_AMP|SchDesignator=U_AMP|FileName=AMP.SchDoc|SymbolType=Normal|RawFileName=AMP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_JTAG|SchDesignator=U_JTAG|FileName=JTAG.SchDoc|SymbolType=Normal|RawFileName=JTAG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator=U_USB|SchDesignator=U_USB|FileName=USB.SchDoc|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=TopSheet.SchDoc
